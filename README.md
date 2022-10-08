@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Junie paris
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning everithing 
+- 🌱 I’m currently learning everything 
 - 💞️ I’m looking to collaborate on web development project
 
 <!---
